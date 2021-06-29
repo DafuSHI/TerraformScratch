@@ -2,5 +2,5 @@
 provider.tf
 terraform.tfstate
 terraform.tfstate.backup
-.terraform.lock.hcls
+.terraform.lock.hcl
 .idea/*
